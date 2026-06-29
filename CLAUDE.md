@@ -76,3 +76,22 @@
 ## 缺省處理
 
 使用者若未提供某欄位的新值，**保留原值不動**，不要自行填入預設值或清空。
+
+## Facebook 發文社團清單
+
+發文身份：草莓羽球團 粉專
+
+發文方式：用 Claude in Chrome 依序發布，每篇發布前先讓使用者確認內容與目標社團
+
+有些社團即時發佈、有些進管理員審核佇列，皆屬正常
+
+| # | 社團名稱 | 網址 |
+|---|---|---|
+| 1 | 大台北羽球臨打資訊平台 | https://www.facebook.com/groups/badmintontaipei |
+| 2 | 羽球假日臨打團 | https://www.facebook.com/groups/240950092624214 |
+| 3 | 新大台北羽球交流同好版 | https://www.facebook.com/groups/187779906405267 |
+| 4 | 台北基隆 北北基羽球同好交流區 | https://www.facebook.com/groups/NorTaiwanBMT |
+| 5 | 羽球新手揪團資訊站 | https://www.facebook.com/groups/226864042514007 |
+| 6 | 大台北羽球同好交流版 | https://www.facebook.com/groups/392553431115145 |
+| 7 | 揪我一起打羽球 | https://www.facebook.com/groups/jome17badminton |
+| 8 | 新北市羽球臨打揪團 | https://www.facebook.com/groups/1882953728686436 |
